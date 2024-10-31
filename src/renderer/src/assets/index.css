@@ -19,4 +19,8 @@ body {
   @apply font-mono antialiased text-white;
 
   @apply overflow-hidden;
+
+  @apply text-center;
+
+  background-color: rgba(26, 26, 26, 0.7);
 }
